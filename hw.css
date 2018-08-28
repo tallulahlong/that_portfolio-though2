@@ -1,0 +1,76 @@
+body{
+background-color: grey;
+}
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  .head{
+      width: 200px;
+  }
+.footer {
+    border: 10px solid grey;
+    font-size: 20pt;
+    padding: 20px;
+    clear: both;
+    background: #ccc;
+  }
+  .aside{
+      width: 100;
+      float: right;
+      font-size: 20pt;
+    padding: 245px;
+    clear: both;
+    background-color: forestgreen;
+    border: black;
+  }
+  .section{
+      border-spacing: 10px;
+    font-size: 20pt;
+    float: left;
+  padding: 150px;
+  clear: both;
+  background-color: forestgreen;
+  border: black;
+  }
+  .article{
+      width: 200px;
+    font-size: 20pt;
+    float: left;
+  padding: 20px;
+  clear: both;
+  background-color: black;
+  border: black;
+  }
+  .h1-h2-h3{
+    font-size: 20pt;
+    float: left;
+  padding: 20px;
+  clear: both;
+  background-color: rgb(161, 18, 18);
+  border: red;
+  }
+  .p{
+    font-size: 20pt;
+    float: left;
+  padding: 20px;
+  clear: both;
+  background-color: white;
+  border: black
+  }
+  .header{
+      border: 10px solid gray;
+    font-size: 20pt;
+    padding: 20px;
+    clear: both;
+    background: #ccc;
+  }
+  .nav{
+    border-spacing: 10px;
+    border: 10px solid grey;
+    font-size: 20pt;
+    padding: 20px;
+    clear: both;
+    background: rgb(8, 18, 161);
+    text-align: center;
+  }
